@@ -68,7 +68,7 @@ public:
 		return *this;
 	}
 
-	// Reserve, allocates data for space requirements (only if increasing capacity ofc duuh)
+	// Reserve, allocates data for space requirements (only if increasing capacity ofc Duh)
 	void Reserve(std::size_t capacity)
 	{
 		if (capacity > mCapacity)
